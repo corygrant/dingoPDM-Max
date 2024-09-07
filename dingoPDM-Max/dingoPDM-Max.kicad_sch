@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "dingoPDM-Max")
-		(date "2024-07-06")
-		(rev "v0.1")
+		(date "2024-09-06")
+		(rev "v1.0")
 		(comment 3 "github.com/corygrant")
 		(comment 4 "Cory Grant")
 	)
