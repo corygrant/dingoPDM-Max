@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "dingoPDM-Max")
-		(date "2025-06-16")
-		(rev "v1.1")
+		(date "2025-09-29")
+		(rev "v1.2")
 		(comment 3 "github.com/corygrant")
 		(comment 4 "Cory Grant")
 	)
@@ -726,7 +726,7 @@
 		)
 		(uuid "16eeb9be-3601-4dc0-922f-1b74a7490431")
 	)
-	(text "V1.1 \n-Added 12V-5V DC-DC converter options\n-Add cap to 5V rail"
+	(text "V1.1 \n-Added 12V-5V DC-DC converter options\n-Add cap to 5V rail\n\nV1.2\n-Shifted traces to fix ground plane issue on Out3\n-Increased some trace widths"
 		(exclude_from_sim no)
 		(at 87.122 191.77 0)
 		(effects

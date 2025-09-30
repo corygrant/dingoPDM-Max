@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "dingoPDM-Max")
-		(date "2025-06-16")
-		(rev "v1.1")
+		(date "2025-09-29")
+		(rev "v1.2")
 		(comment 3 "github.com/corygrant")
 		(comment 4 "Cory Grant")
 	)
@@ -3775,6 +3775,15 @@
 			)
 		)
 		(property "Digi-Key_PN" "448-BTS700121ESPXUMA2CT-ND"
+			(at 132.08 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C3232444"
 			(at 132.08 104.14 0)
 			(effects
 				(font

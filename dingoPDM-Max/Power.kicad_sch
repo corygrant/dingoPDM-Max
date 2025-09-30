@@ -6,8 +6,8 @@
 	(paper "USLetter")
 	(title_block
 		(title "dingoPDM-Max")
-		(date "2025-06-16")
-		(rev "v1.1")
+		(date "2025-09-29")
+		(rev "v1.2")
 		(comment 3 "github.com/corygrant")
 		(comment 4 "Cory Grant")
 	)
@@ -3778,7 +3778,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C5137464"
 			(at 99.06 34.29 0)
 			(effects
 				(font
@@ -5361,6 +5361,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C22388555"
+			(at 138.43 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "313889fa-f2d7-46ae-97fe-98426441009b")
 		)
@@ -5489,6 +5498,24 @@
 			)
 		)
 		(property "Description" "1A step-down regulator module, fixed 5V output voltage, 5-36V input voltage, -40°C to +85°C temperature range, TO-220 compatible LM78xx replacement"
+			(at 36.83 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "1951-2747-ND"
+			(at 36.83 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C6886877"
 			(at 36.83 114.3 0)
 			(effects
 				(font
@@ -5705,6 +5732,15 @@
 			)
 		)
 		(property "Digi-Key_PN" "445-7935-1-ND"
+			(at 133.35 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C22388555"
 			(at 133.35 40.64 0)
 			(effects
 				(font
@@ -6191,6 +6227,24 @@
 			)
 		)
 		(property "Description" "1.5A Step-Down DC/DC-Regulator, 7-36V input, 5V fixed Output Voltage, LM78xx replacement, -40°C to +85°C, OKI-78SR_Horizontal"
+			(at 36.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digi-Key_PN" "811-2692-ND"
+			(at 36.83 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C266374"
 			(at 36.83 74.93 0)
 			(effects
 				(font
